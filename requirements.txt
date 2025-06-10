@@ -1,0 +1,31 @@
+# Discord Bot Dependencies
+discord.py>=2.3.0
+aiohttp>=3.8.0
+aiosqlite>=0.19.0
+
+# Game Server Integration
+mcrcon>=2.4
+
+# Log Monitoring & File Watching
+watchdog>=3.0.0
+
+# Configuration & Environment
+python-dotenv>=1.0.0
+
+# HTTP Requests & API Integration
+requests>=2.31.0
+
+# JSON & Data Processing (stdlib modules - no installation needed)
+# json - Built-in Python module
+# sqlite3 - Built-in Python module
+# logging - Built-in Python module
+# os - Built-in Python module
+# datetime - Built-in Python module
+# re - Built-in Python module
+# asyncio - Built-in Python module
+
+# Optional: Enhanced logging
+loguru>=0.7.0
+
+# Optional: Better async HTTP client
+httpx>=0.24.0
