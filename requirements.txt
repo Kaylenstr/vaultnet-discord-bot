@@ -4,7 +4,7 @@ aiohttp>=3.8.0
 aiosqlite>=0.19.0
 
 # Game Server Integration
-mcrcon>=2.4
+mcrcon>=0.7.0
 
 # Log Monitoring & File Watching
 watchdog>=3.0.0
